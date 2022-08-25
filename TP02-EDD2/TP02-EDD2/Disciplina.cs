@@ -89,7 +89,10 @@ namespace TP02_EDD2
             }
             return podeDesmatricular;
         }
-
+        public override string ToString()
+        {
+            return $"Disciplina ID: {this.Id} - Descrição: {this.Descricao}";
+        }
     }
 
 }

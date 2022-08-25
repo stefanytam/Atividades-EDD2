@@ -1,0 +1,13 @@
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\bin\Debug\netcoreapp3.1\TP02-EDD2.exe
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\bin\Debug\netcoreapp3.1\TP02-EDD2.deps.json
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\bin\Debug\netcoreapp3.1\TP02-EDD2.runtimeconfig.json
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\bin\Debug\netcoreapp3.1\TP02-EDD2.runtimeconfig.dev.json
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\bin\Debug\netcoreapp3.1\TP02-EDD2.dll
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\bin\Debug\netcoreapp3.1\TP02-EDD2.pdb
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\obj\Debug\netcoreapp3.1\TP02-EDD2.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\obj\Debug\netcoreapp3.1\TP02-EDD2.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\obj\Debug\netcoreapp3.1\TP02-EDD2.AssemblyInfo.cs
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\obj\Debug\netcoreapp3.1\TP02-EDD2.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\obj\Debug\netcoreapp3.1\TP02-EDD2.dll
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\obj\Debug\netcoreapp3.1\TP02-EDD2.pdb
+C:\Users\stefa\source\repos\TP02-EDD2\TP02-EDD2\obj\Debug\netcoreapp3.1\TP02-EDD2.genruntimeconfig.cache

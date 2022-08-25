@@ -90,6 +90,9 @@ namespace TP02_EDD2
             }
             return podeRemover;
         }
-
+        public override string ToString()
+        {
+            return $"Curso ID: {this.Id} - Descrição: {this.Descricao}";
+        }
     }
 }

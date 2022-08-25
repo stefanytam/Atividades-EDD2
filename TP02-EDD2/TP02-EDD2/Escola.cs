@@ -83,6 +83,5 @@ namespace TP02_EDD2
             }
             return podeRemover;
         }
-
     }
 }

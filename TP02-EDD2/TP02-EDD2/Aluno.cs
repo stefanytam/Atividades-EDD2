@@ -39,8 +39,12 @@ namespace TP02_EDD2
                     }
                 }
             }
-            
+      
             return (k < 6);
+        }
+        public override string ToString()
+        {
+            return $"Aluno ID: {this.Id} - Nome: {this.nome}";
         }
     }
 }

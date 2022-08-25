@@ -6,7 +6,7 @@ namespace TP02_EDD2
     {
         static void Main(string[] args)
         {
-            
+            Console.ReadKey();
         }
     }
 }
