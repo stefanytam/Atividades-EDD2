@@ -7,7 +7,7 @@ namespace TP_AGENDA
     class Contato
     {
         private string email, nome;
-        Data  dtNasc;
+        Data dtNasc;
         List<Telefone> telefones = new List<Telefone>();
 
         public Contato(string email, string nome, Data dtNasc, List<Telefone> telefones)

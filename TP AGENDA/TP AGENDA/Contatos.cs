@@ -8,6 +8,11 @@ namespace TP_AGENDA
     {
         private readonly List<Contato> agenda;
 
+        public Contatos()
+        {
+            this.agenda = null;
+        }
+
         public Contatos(List<Contato> agenda)
         {
             this.agenda = agenda;

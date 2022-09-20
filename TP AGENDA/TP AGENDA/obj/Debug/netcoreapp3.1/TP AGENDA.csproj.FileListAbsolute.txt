@@ -11,3 +11,17 @@ C:\Users\stefa\source\repos\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGEND
 C:\Users\stefa\source\repos\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.dll
 C:\Users\stefa\source\repos\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.pdb
 C:\Users\stefa\source\repos\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.genruntimeconfig.cache
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\bin\Debug\netcoreapp3.1\TP AGENDA.exe
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\bin\Debug\netcoreapp3.1\TP AGENDA.deps.json
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\bin\Debug\netcoreapp3.1\TP AGENDA.runtimeconfig.json
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\bin\Debug\netcoreapp3.1\TP AGENDA.runtimeconfig.dev.json
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\bin\Debug\netcoreapp3.1\TP AGENDA.dll
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\bin\Debug\netcoreapp3.1\TP AGENDA.pdb
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.AssemblyInfoInputs.cache
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.AssemblyInfo.cs
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.dll
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.pdb
+C:\Users\Jonas\Desktop\Atividades-EDD2\TP AGENDA\TP AGENDA\obj\Debug\netcoreapp3.1\TP AGENDA.genruntimeconfig.cache
