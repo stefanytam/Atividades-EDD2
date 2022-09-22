@@ -1,0 +1,17 @@
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\bin\Debug\net6.0-windows\TP03.exe
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\bin\Debug\net6.0-windows\TP03.deps.json
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\bin\Debug\net6.0-windows\TP03.runtimeconfig.json
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\bin\Debug\net6.0-windows\TP03.dll
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\bin\Debug\net6.0-windows\TP03.pdb
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.Agenda.resources
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.AssemblyInfo.cs
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.dll
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\refint\TP03.dll
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.pdb
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\TP03.genruntimeconfig.cache
+C:\Users\stefa\source\repos\Atividades-EDD2-main\TP03\TP03\obj\Debug\net6.0-windows\ref\TP03.dll
