@@ -1,0 +1,30 @@
+C:\Users\aluno\source\repos\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.exe
+C:\Users\aluno\source\repos\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.deps.json
+C:\Users\aluno\source\repos\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.runtimeconfig.json
+C:\Users\aluno\source\repos\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.dll
+C:\Users\aluno\source\repos\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.pdb
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.dll
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\refint\Lotacao.dll
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.pdb
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.genruntimeconfig.cache
+C:\Users\aluno\source\repos\Lotacao\Lotacao\obj\Debug\net6.0\ref\Lotacao.dll
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.csproj.AssemblyReference.cache
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.AssemblyInfoInputs.cache
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.AssemblyInfo.cs
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.csproj.CoreCompileInputs.cache
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.dll
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\refint\Lotacao.dll
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.pdb
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.exe
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.deps.json
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.runtimeconfig.json
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.dll
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\bin\Debug\net6.0\Lotacao.pdb
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\Lotacao.genruntimeconfig.cache
+D:\IFSP\2 ano\Estrutura de dados\Lotacao\Lotacao\obj\Debug\net6.0\ref\Lotacao.dll
